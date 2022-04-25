@@ -9,13 +9,14 @@
      font-size: 25px;
      margin: 2px;
      cursor: pointer;
-     background-color: #607d8b;
+     background-color: #555555;
      border: none;
-     color: #ffffff;
+     color: #DCF5FA;
+     border-radius: 9px;
 }
 
 .button:hover {
-     background-color: #7d9099;
+     background-color: #696969;
 }
 
 .textview {
@@ -23,8 +24,9 @@
      margin: 5px;
      padding: 5px;
      font-size: 25px;
-     border: 2px solid #607d8b;
-     color: #607d8b;
+     border: 2px solid #555555;
+     color: #555555;
+     border-radius: 9px;
 }
 
 .main {
